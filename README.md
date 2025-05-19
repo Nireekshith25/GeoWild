@@ -42,7 +42,7 @@ npm or yarn
 
 
  1. Clone the repository
-git clone https://github.com/yourusername/GeoWild.git
+git clone https://github.com/Nireekshith25/GeoWild.git
 cd GeoWild
 
  2. Install dependencies
