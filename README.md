@@ -55,7 +55,5 @@ npm run dev
 
 
 
-![Screenshot](img/Screenshot-2025-05-19-204940.png)
-
-)
+![Wild Life](images/certificate.png)
 
