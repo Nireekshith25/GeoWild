@@ -54,6 +54,6 @@ npm run dev
  App is running at http://localhost:5173
 
 
+![Front Page](Front.png)
 
-![Wild Life](images/certificate.png)
 
