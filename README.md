@@ -55,5 +55,8 @@ npm run dev
 
 
 ![Front Page](Front.png)
+![Front Page](Gallery.png)
+![Front Page](Experience.png)
+![Front Page](Explore.png)
 
 
